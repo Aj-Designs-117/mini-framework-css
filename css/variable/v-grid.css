@@ -1,0 +1,18 @@
+html{
+    /* =======================================
+         * CONTAINER *
+    =========================================*/
+    --width-content: 100%;
+    --max-width-content-1: 1320px;
+    --max-width-content-2: 1140px;
+    --max-width-content-3:960px;
+    --max-width-content-4:720px;
+    --max-width-content-5:540px;
+  
+
+    /* =======================================
+         * GRID COLUMNS *
+    =========================================*/
+    --grid-columns: repeat(12, minmax(0, 1fr));
+    --grid-gap: 20px;
+}
